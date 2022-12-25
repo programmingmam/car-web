@@ -1,0 +1,25 @@
+  
+   
+@media(max-width:769px){
+    
+    .black-box::before{
+      
+        top:30px;
+        left:30px;
+        width:40vh;
+       
+    }
+    .service-after::before{
+ 
+        top:20px;
+        left:30px;
+        width:40vh;
+       
+         
+    }
+  
+     
+      
+   
+ } 
+   
