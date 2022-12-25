@@ -31,10 +31,14 @@ overflow-x: hidden;
 }
 
 /* navvar style  */
+
+
 .navbar{
   box-shadow: 0px 6px 30px rgba(137, 115, 115, 0.68);
-  background: rgb(57, 210, 195);
+  background-color: #529960;
+ 
 }
+ 
 
  
 
@@ -290,8 +294,8 @@ object-fit: cover;
  .from--group textarea,
  .from--group select{
    width: 100%;
-   border: none;
-  background-color:rgb(190, 216, 207);
+   border: 1px solid #000000;
+  
   font-size: 1rem;
   font-weight:600;
   font-family:sans-serif;
@@ -313,9 +317,10 @@ object-fit: cover;
  
  }
  .primarybtn{
-   background-color:rgba(32, 32, 137, 0.533);
+   background-color: #0676E8;
    border-radius: 8px;
    font-size: 18px;
+   color: #000000;
    transition: 0.8s;
    text-decoration: none;
 
